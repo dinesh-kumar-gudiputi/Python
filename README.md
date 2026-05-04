@@ -14,7 +14,7 @@ python-core/
 │
 ├── projects/          # Real-world mini applications
 ├── problem_solving/   # LeetCode-style problem solving
-├── data_analysis/     # NumPy, Pandas, Matplotlib practice
+├── data_analysis_Libraries/     # NumPy, Pandas, Matplotlib practice
 ├── oop/               # Object-Oriented Programming concepts
 ├── utils/             # Helper functions and reusable code
 ```
